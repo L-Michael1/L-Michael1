@@ -18,6 +18,8 @@
   <img src="./icons/javascript.svg" alt="javascript" height="50px"/>
   <img src="./icons/typescript.svg" alt="typescript" height="50px"/>
   <img src="./icons/c.svg" alt="c" height="50px"/>
+  <img src="./icons/mysql.svg" alt="mysql" height="50px"/>
+  <img src="./icons/mongodb.svg" alt="mongodb" height="50px"/>
   <img src="./icons/material-ui.svg" alt="material-ui" height="50px"/>
   <img src="./icons/node.svg" alt="node" height="50px"/>
   <img src="./icons/firebase.svg" alt="firebase" height="50px"/>
@@ -25,6 +27,7 @@
 
 <h2 align="center">Have used...</h2>
 <p align="center">
+  <img src="./icons/php.svg" alt="php" height="50px"/>
   <img src="./icons/gatsby.svg" alt="gatsby" height="50px"/>
   <img src="./icons/bootstrap.svg" alt="bootstrap" height="50px"/>
   <img src="./icons/figma.svg" alt="figma" height="50px"/>
