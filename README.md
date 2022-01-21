@@ -4,7 +4,7 @@
 - 🎒 A 3rd year Computer Science student at the University of Guelph
 - 🌷 Previous co-op at [Tulip](https://www.tulip.com/) as a Software Developer
 - 🤗 Full-stack fanboy with a main focus on React and TypeScript
-- ⌨ Big fan of custom keyboards (I'd love to see yours!), I enjoy all types of sports, hiking, kdramas, anime, and the list goes on...
+- ⌨ I enjoy all types of sports, hiking, kdramas, anime, and the list goes on...
 - 😀 Let's chat: [LinkedIn](https://www.linkedin.com/in/mlam977/)
 
 <a href="http://github-readme-streak-stats.herokuapp.com?user=L-Michael1&theme=react&date_format=M%20j%5B%2C%20Y%5D"> 
