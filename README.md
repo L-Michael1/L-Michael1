@@ -7,9 +7,9 @@
 - ⌨ I enjoy all types of sports, hiking, kdramas, anime, and the list goes on...
 - 😀 Let's chat: [LinkedIn](https://www.linkedin.com/in/mlam977/)
 
-<a href="http://github-readme-streak-stats.herokuapp.com?user=L-Michael1&theme=react&date_format=M%20j%5B%2C%20Y%5D"> 
+<!-- <a href="http://github-readme-streak-stats.herokuapp.com?user=L-Michael1&theme=react&date_format=M%20j%5B%2C%20Y%5D"> 
   <img  src="http://github-readme-streak-stats.herokuapp.com?user=L-Michael1&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
-</a>
+</a> -->
 
 <h2>A fan of...</h2>
 <p>
