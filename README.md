@@ -10,7 +10,7 @@
 <!-- <a href="http://github-readme-streak-stats.herokuapp.com?user=L-Michael1&theme=react&date_format=M%20j%5B%2C%20Y%5D"> 
   <img  src="http://github-readme-streak-stats.herokuapp.com?user=L-Michael1&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
 </a> -->
-
+<!-- 
 <h2>A fan of...</h2>
 <p>
   <img src="./icons/react.svg" alt="react" height="50px"/>
@@ -33,4 +33,4 @@
   <img src="./icons/gatsby.svg" alt="gatsby" height="50px"/>
   <img src="./icons/bootstrap.svg" alt="bootstrap" height="50px"/>
   <img src="./icons/figma.svg" alt="figma" height="50px"/>
-</p>
+</p> -->
