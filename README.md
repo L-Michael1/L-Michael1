@@ -3,7 +3,7 @@
 
 - 🎒 A 3rd year Computer Science student at the University of Guelph
 - 🌷 Previous co-op at [Tulip](https://www.tulip.com/) as a Software Developer
-- 🤗 Full-stack fanboy with a main focus on React and TypeScript - currently learning GO!
+- 🤗 Full-stack fanboy with a main focus on React and TypeScript - currently learning Go!
 - ⌨ I enjoy all types of sports, hiking, kdramas, anime, and the list goes on...
 - 😀 Let's chat: [LinkedIn](https://www.linkedin.com/in/mlam977/)
 
