@@ -1,13 +1,13 @@
 <h1>Hi 👋, I'm Michael</h1>
 <h3>A software developer from Guelph, Ontario</h3>
 
-- 🎒 A 3rd year Computer Science student at the University of Guelph
-- 🌷 Previous co-op @ [Tulip](https://www.tulip.com/) as a Software Developer
-- 🤗 Full-stack fan with a main focus on React and TypeScript - currently learning Go!
-- 😀 I enjoy sports, hiking, kdramas, anime, lifting and the list goes on...
-- ⌨ Building a pretty cool app!
+<span>🎒 A 3rd year Computer Science student at the University of Guelph</span><br/>
+<span>🌷 Previous co-op @ [Tulip](https://www.tulip.com/) as a Software Developer</span><br/>
+<span>🤗 Full-stack fan with a main focus on React and TypeScript - currently learning Go!</span><br/>
+<span>😀 I enjoy sports, hiking, kdramas, anime, lifting and the list goes on...</span><br/>
+<span>⌨ Building a pretty cool app!</span><br/>
 
-- Check me out @ [mlammy](https://mlammy.netlify.app/)!
+<span>Check me out @ [mlammy](https://mlammy.netlify.app/)!</span>
 
 
 <!-- <a href="http://github-readme-streak-stats.herokuapp.com?user=L-Michael1&theme=react&date_format=M%20j%5B%2C%20Y%5D"> 
