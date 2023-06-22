@@ -7,7 +7,7 @@
 <span>😀 I enjoy sports, hiking, kdramas, anime, lifting and the list goes on...</span><br/>
 <span>⌨ Building a pretty cool app!</span><br/>
 
-<span>Check me out @ [mlammy](https://mlammy.netlify.app/)!</span>
+<!-- <span>Check me out @ [mlammy](https://mlammy.netlify.app/)!</span> --!>
 
 
 <!-- <a href="http://github-readme-streak-stats.herokuapp.com?user=L-Michael1&theme=react&date_format=M%20j%5B%2C%20Y%5D"> 
