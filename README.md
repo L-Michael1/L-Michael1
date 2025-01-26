@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Michael</h1>
 <h3>A software developer from Guelph, Ontario</h3>
 
-<span>🎒 A Computer Science graduate from the University of Guelph</span><br/>
+<span>🎒 Computer Science Graduate from the University of Guelph</span><br/>
 <span>🌷 Previous co-op @ [Tulip](https://www.tulip.com/) as a Software Developer</span><br/>
 <span>🤗 Full-stack fan with a main focus on React, TypeScript, and Go.</span><br/>
 <span>😀 I enjoy sports, hiking, K-dramas, anime, lifting, and the list goes on...</span><br/>
