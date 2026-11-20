@@ -1,1 +1,3 @@
-![peanut](https://media.giphy.com/media/13HjjIGowJzBYI/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/13HjjIGowJzBYI/giphy.gif" alt="peanut" width="300">
+</p>
